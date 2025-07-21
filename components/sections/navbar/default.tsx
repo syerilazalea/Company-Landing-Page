@@ -1,4 +1,4 @@
-import { Menu } from "lucide-react";
+import { Menu, CpuIcon, } from "lucide-react";
 import { ReactNode } from "react";
 
 import { cn } from "@/lib/utils";
@@ -39,7 +39,7 @@ interface NavbarProps {
 
 export default function Navbar({
   logo = <LaunchUI />,
-  name = "Launch UI",
+  name = "Company Name",
   homeUrl = "#home",
   mobileLinks = [
     { text: "Product", href: "#product" },
