@@ -21,12 +21,12 @@ interface CTAProps {
 }
 
 export default function CTA({
-  title = "Start building",
+  title = "More About Us",
   buttons = [
     {
       href: "https://www.instagram.com/digitalndream/",
-      text: "Get To Know Us",
-      variant: "default",
+      text: "follow us",
+      variant: "glow",
     },
   ],
   className,

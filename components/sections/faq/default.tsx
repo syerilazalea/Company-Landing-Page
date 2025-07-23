@@ -45,7 +45,7 @@ export default function FAQ({
       answer: (
         <>
           <p className="text-muted-foreground mb-4 max-w-[600px]">
-            We don’t offer one-size-fits-all AI. Our solutions are tailored to
+            We don&rsquo;t offer one-size-fits-all AI. Our solutions are tailored to
             your business—whether it’s automating workflows, enhancing user
             experiences, or making smarter decisions with data.
           </p>
@@ -80,7 +80,7 @@ export default function FAQ({
           <p className="text-muted-foreground mb-4 max-w-[580px]">
             Yes. We take care of both design and development to ensure
             consistency, performance, and a great user experience. From
-            wireframes to final deployment—we’ve got you covered.
+            wireframes to final deployment—we&rsquove got you covered.
           </p>
         </>
       ),
@@ -100,8 +100,8 @@ export default function FAQ({
       answer: (
         <>
           <p className="text-muted-foreground mb-4 max-w-[580px]">
-            Yes, we provide flexible support plans—whether it's updates,
-            optimizations, or new feature development. You won’t be left on your
+            Yes, we provide flexible support plans—whether it&apos;s updates,
+            optimizations, or new feature development. You wont be left on your
             own once your product is launched.
           </p>
         </>
